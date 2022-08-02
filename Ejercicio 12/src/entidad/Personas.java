@@ -51,7 +51,7 @@ se recibe como parámetro, o false en caso contrario.*/
     }
     
     public void mostrarDato(){
-        System.out.println(getNombre()+"Nacio el "+fNacim.getDay()+" "+fNacim.getMonth()+" "+fNacim.getYear());
+        System.out.println(getNombre()+"Nacio el "+fNacim.getDate()+" "+fNacim.getMonth()+" "+fNacim.getYear());
     }
     
  
